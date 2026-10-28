@@ -13,6 +13,9 @@ A enterprise-grade, object-oriented console Banking Management & Transaction Pro
 
 Anyone can clone and run this repository directly from their terminal:
 
+### 📥 Direct ZIP Download
+You can download the bundled project package directly: **[`oop_java-banking_system_25ce076.zip`](oop_java-banking_system_25ce076.zip)** (or from GitHub: [Download ZIP](https://github.com/diyap21/oop_java-banking_system_25ce076/raw/main/oop_java-banking_system_25ce076.zip)).
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/diyap21/oop_java-banking_system_25ce076.git
