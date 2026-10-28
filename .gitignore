@@ -1,0 +1,24 @@
+# Byte-compiled / binary files
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Local runtime data & exports
+data/*.dat
+statement_*.txt
+*.log
+
+# IDE and Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
